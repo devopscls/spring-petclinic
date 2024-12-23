@@ -2,7 +2,7 @@ name: petclinic-maven
 on:
   push:
     branches: [ "main" ]
-  pull_requenst:
+  pull_request:
     branches: [ "main" ]
 jobs:
   build:
